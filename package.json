@@ -29,7 +29,7 @@
         "husky": "8.0.2",
         "identity-obj-proxy": "3.0.0",
         "jquery": "^3.6.1",
-        "mini-css-extract-plugin": "2.7.0",
+        "mini-css-extract-plugin": "2.7.6",
         "minimatch": "5.1.1",
         "mkdirp": "^1.0.4",
         "node-fetch": "^3.3.0",
